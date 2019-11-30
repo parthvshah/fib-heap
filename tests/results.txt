@@ -1,0 +1,104 @@
+1)
+    418 724
+
+    STL PriorityQ: 9.339633
+    Fib Heap: 9.05902
+
+    STL PriorityQ: 8.97633
+    Fib Heap: 8.93816
+
+    STL PriorityQ: 8.93461
+    Fib Heap: 8.95705
+
+    STL PriorityQ: 8.93601
+    Fib Heap: 8.93282
+
+    STL PriorityQ: 8.96178
+    Fib Heap: 8.93567
+
+    STL PriorityQ: 8.91952
+    Fib Heap: 8.95207
+
+    STL PriorityQ: 8.97054
+    Fib Heap: 8.94066
+
+    STL PriorityQ: 8.92957
+    Fib Heap: 9.01430
+
+    STL PriorityQ: 8.96373
+    Fib Heap: 8.95420
+
+    STL PriorityQ: 8.97502
+    Fib Heap: 9.01768
+
+2)
+    10 13
+
+    STL PriorityQ: 11.062987
+    Fib Heap: 11.03818
+
+    STL PriorityQ: 10.90714
+    Fib Heap: 10.97370
+
+    STL PriorityQ: 10.80212
+    Fib Heap: 10.68544
+
+    STL PriorityQ: 10.75393
+    Fib Heap: 10.99286
+
+    STL PriorityQ: 10.79838
+    Fib Heap: 10.79462
+
+3)
+    216 916
+
+    STL PriorityQ: 11.508752
+    Fib Heap: 10.83535
+
+    STL PriorityQ: 10.77587
+    Fib Heap: 10.68677
+
+    STL PriorityQ: 10.68484
+    Fib Heap: 10.68867
+
+    STL PriorityQ: 10.69453
+    Fib Heap: 10.69462
+
+    STL PriorityQ: 10.67064
+    Fib Heap: 10.66896
+
+4)
+    14 66
+
+    STL PriorityQ: 5.776382
+    Fib Heap: 5.47101
+
+    STL PriorityQ: 5.37076
+    Fib Heap: 5.36890
+
+    STL PriorityQ: 5.41300
+    Fib Heap: 5.39247
+
+    STL PriorityQ: 5.42747
+    Fib Heap: 5.40918
+
+    STL PriorityQ: 5.37833
+    Fib Heap: 5.37515
+
+5)
+    41 47
+
+    STL PriorityQ: 8.776128
+    Fib Heap: 8.58572
+
+    STL PriorityQ: 8.48116
+    Fib Heap: 8.45729
+
+    STL PriorityQ: 8.45556
+    Fib Heap: 8.54986
+
+    STL PriorityQ: 8.82390
+    Fib Heap: 8.76179
+
+    STL PriorityQ: 8.86720
+    Fib Heap: 8.51398
