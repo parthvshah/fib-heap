@@ -6,11 +6,13 @@ Due to the complexity involved in modifying the scheduler to use Fibonacci heaps
 
 ## Code Organization
 
-```binheap.c``` contains the implementation of a binary heap, ```fibheap.c``` contains the implementation of a Fibonacci heap. The respective header files contains the function definitations and descriptions. The file ```bench.c``` initializes the heaps with the appropriate parameters as discussed above. The run times for each of the types of heaps are recorded and output to standard output on completion.
+`binheap.c` contains the implementation of a binary heap, `fibheap.c` contains the implementation of a Fibonacci heap. The respective header files contains the function definitations and descriptions. The file `bench.c` initializes the heaps with the appropriate parameters as discussed above. The run times for each of the types of heaps are recorded and output to standard output on completion.
 
 To run the bench-marking code:
 
-```gcc -o bench bench.c binheap.c fibheap.c && ./bench```
+```
+gcc -o bench bench.c binheap.c fibheap.c && ./bench
+```
 
 ## Results
 
